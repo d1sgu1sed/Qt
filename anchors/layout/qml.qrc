@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Rectangle_comp.qml</file>
+        <file>Text_comp.qml</file>
+    </qresource>
+</RCC>
