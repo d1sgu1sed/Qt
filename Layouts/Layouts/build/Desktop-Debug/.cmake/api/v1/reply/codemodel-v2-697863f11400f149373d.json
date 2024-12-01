@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3ac25d4e697ebe34d602.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Layouts",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Layouts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Layouts-Debug-571be03442dbb38f5334.json",
+					"name" : "Layouts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Layouts_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Layouts_autogen-Debug-c93f8d6ff80bbb79715b.json",
+					"name" : "Layouts_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Layouts_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Layouts_autogen_timestamp_deps-Debug-22e17ff63274258d23dd.json",
+					"name" : "Layouts_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Layouts_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Layouts_qmlimportscan-Debug-15c2a232155342f4d771.json",
+					"name" : "Layouts_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ivan/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Qt/Layouts/build/Desktop-Debug",
+		"source" : "/home/ivan/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Qt/Layouts"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
