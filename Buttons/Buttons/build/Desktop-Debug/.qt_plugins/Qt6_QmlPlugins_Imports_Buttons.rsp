@@ -1,0 +1,9 @@
+-rootPath
+/home/ivan/Рабочий стол/Qt/Buttons/Buttons
+-cmake-output
+-output-file
+/home/ivan/Рабочий стол/Qt/Buttons/Buttons/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Buttons.cmake
+-importPath
+/home/ivan/Рабочий стол/Qt/Buttons/Buttons/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
