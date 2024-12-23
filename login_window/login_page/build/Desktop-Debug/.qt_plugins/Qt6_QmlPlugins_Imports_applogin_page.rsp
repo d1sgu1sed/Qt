@@ -1,0 +1,14 @@
+-rootPath
+/home/ivan/login_page
+-cmake-output
+-output-file
+/home/ivan/login_page/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_applogin_page.cmake
+-importPath
+/home/ivan/login_page/build/Desktop-Debug/login_page
+-importPath
+/home/ivan/login_page/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/ivan/login_page/build/Desktop-Debug/.rcc/qmake_login_page.qrc
+/home/ivan/login_page/build/Desktop-Debug/.rcc/applogin_page_raw_qml_0.qrc

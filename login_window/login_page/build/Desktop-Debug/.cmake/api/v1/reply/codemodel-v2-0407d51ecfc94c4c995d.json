@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b11ba8f329fbf3c14728.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "login_page",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-6696e82a0289b82cc782.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-391bd826f89e162a4648.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-74bbbbe940f906243575.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page-Debug-bd0f4d4d6208a6c97b7d.json",
+					"name" : "applogin_page",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_autogen-Debug-c5a33553e50a1c32c710.json",
+					"name" : "applogin_page_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_autogen_timestamp_deps-Debug-4e730f894ded20324abb.json",
+					"name" : "applogin_page_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_automoc_json_extraction-Debug-64bdd1bbeac0b4b18903.json",
+					"name" : "applogin_page_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_other_files-Debug-cea6afc29316ff985d33.json",
+					"name" : "applogin_page_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_qmlimportscan-Debug-a61caf468bda24b6cf40.json",
+					"name" : "applogin_page_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_qmllint-Debug-a1435662430851f36f53.json",
+					"name" : "applogin_page_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_qmllint_json-Debug-0d12330665de4eb40b92.json",
+					"name" : "applogin_page_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_qmltyperegistration-Debug-5caeb22dfd0d1e9d2946.json",
+					"name" : "applogin_page_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "applogin_page_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-applogin_page_tooling-Debug-e45dcfce5ced114af1f8.json",
+					"name" : "applogin_page_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ivan/login_page/build/Desktop-Debug",
+		"source" : "/home/ivan/login_page"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

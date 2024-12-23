@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/login_page/">
+    <file alias="Main.qml">/home/ivan/login_page/Main.qml</file>
+  </qresource>
+</RCC>
+

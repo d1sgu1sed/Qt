@@ -1,0 +1,5 @@
+module login_page
+typeinfo applogin_page.qmltypes
+prefer :/login_page/
+Main 1.0 Main.qml
+

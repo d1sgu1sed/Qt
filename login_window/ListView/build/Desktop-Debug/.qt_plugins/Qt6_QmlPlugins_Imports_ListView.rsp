@@ -1,0 +1,9 @@
+-rootPath
+/home/ivan/Рабочий стол/Qt/Lists/ListView
+-cmake-output
+-output-file
+/home/ivan/ListView/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_ListView.cmake
+-importPath
+/home/ivan/ListView/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
