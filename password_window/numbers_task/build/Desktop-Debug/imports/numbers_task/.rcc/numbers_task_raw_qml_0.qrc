@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/numbers_task/">
+    <file alias="Constants.qml">/home/ivan/numbers_task/imports/numbers_task/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/ivan/numbers_task/imports/numbers_task/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/ivan/numbers_task/imports/numbers_task/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/ivan/numbers_task/imports/numbers_task/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

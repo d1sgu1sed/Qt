@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/content">
+    <file alias="qmldir">/home/ivan/numbers_task/build/Desktop-Debug/qml/content/qmldir</file>
+  </qresource>
+</RCC>
+

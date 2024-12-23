@@ -1,0 +1,11 @@
+module numbers_task
+linktarget numbers_taskplugin
+optional plugin numbers_taskplugin
+classname numbers_taskPlugin
+typeinfo numbers_task.qmltypes
+prefer :/qt/qml/numbers_task/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

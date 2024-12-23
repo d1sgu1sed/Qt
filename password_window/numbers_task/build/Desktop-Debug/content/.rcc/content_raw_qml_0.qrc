@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">/home/ivan/numbers_task/content/App.qml</file>
+    <file alias="Screen01.ui.qml">/home/ivan/numbers_task/content/Screen01.ui.qml</file>
+    <file alias="fonts/fonts.txt">/home/ivan/numbers_task/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

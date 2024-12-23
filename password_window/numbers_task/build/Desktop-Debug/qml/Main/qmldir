@@ -1,0 +1,4 @@
+module Main
+typeinfo numbers_taskApp.qmltypes
+prefer :/qt/qml/Main/
+

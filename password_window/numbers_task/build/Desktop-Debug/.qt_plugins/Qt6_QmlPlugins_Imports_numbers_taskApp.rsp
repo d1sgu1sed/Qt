@@ -1,0 +1,15 @@
+-rootPath
+/home/ivan/numbers_task
+-cmake-output
+-output-file
+/home/ivan/numbers_task/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_numbers_taskApp.cmake
+-importPath
+/home/ivan/numbers_task/build/Desktop-Debug/qml/Main
+-importPath
+/home/ivan/numbers_task/build/Desktop-Debug/qml
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/ivan/numbers_task/build/Desktop-Debug/.rcc/configuration.qrc
+/home/ivan/numbers_task/build/Desktop-Debug/.rcc/qmake_Main.qrc
+/home/ivan/numbers_task/build/Desktop-Debug/.rcc/numbers_taskApp_raw_qml_0.qrc
