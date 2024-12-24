@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/path/">
+    <file alias="SplashScreen.qml">/home/ivan/Рабочий стол/Qt/scribble/SplashScreen.qml</file>
+    <file alias="assets/images/logo.png">/home/ivan/Рабочий стол/Qt/scribble/assets/images/logo.png</file>
+  </qresource>
+</RCC>
+

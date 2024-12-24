@@ -1,0 +1,5 @@
+module path
+typeinfo scribble.qmltypes
+prefer :/path/
+SplashScreen 1.0 SplashScreen.qml
+

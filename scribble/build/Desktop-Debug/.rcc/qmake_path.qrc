@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/path">
+    <file alias="qmldir">/home/ivan/Рабочий стол/Qt/scribble/build/Desktop-Debug/path/qmldir</file>
+  </qresource>
+</RCC>
+

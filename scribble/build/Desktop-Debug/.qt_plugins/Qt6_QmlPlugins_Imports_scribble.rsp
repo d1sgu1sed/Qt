@@ -1,0 +1,9 @@
+-rootPath
+/home/ivan/Рабочий стол/Qt/scribble
+-cmake-output
+-output-file
+/home/ivan/Рабочий стол/Qt/scribble/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_scribble.cmake
+-importPath
+/home/ivan/Рабочий стол/Qt/scribble/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml

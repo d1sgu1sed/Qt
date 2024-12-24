@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SplashScreen.qml</file>
+        <file>LoginScreen.qml</file>
+        <file>MainScreen.qml</file>
+        <file>NoteScreen.qml</file>
+        <file>assets/images/logo.png</file>
+        <file>RegisterScreen.qml</file>
+        <file>assets/images/user_icon.png</file>
+        <file>SettingsScreen.qml</file>
+        <file>FoldersScreen.qml</file>
+        <file>ProfileScreen.qml</file>
+    </qresource>
+</RCC>
